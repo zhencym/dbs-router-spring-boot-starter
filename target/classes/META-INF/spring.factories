@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  cn.twinkle.middleware.dbs.router.config.DataSourceAutoConfig
